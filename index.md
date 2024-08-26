@@ -10,7 +10,8 @@
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-![https://global.discourse-cdn.com/business7/uploads/replitteams/original/2X/d/df129f8d343118a60adbe39724f816eba5340929.jpeg](src)
+![image](https://github.com/user-attachments/assets/0e64f4b8-1dac-4981-9ec8-05dd2e3f05d1)
+](src)
 
 ### Jekyll Themes
 
