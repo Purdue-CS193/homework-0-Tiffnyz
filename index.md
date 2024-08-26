@@ -8,7 +8,7 @@
 - Easy homework and no tests!
 - _Cool_ teachers
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ![image](https://github.com/user-attachments/assets/0e64f4b8-1dac-4981-9ec8-05dd2e3f05d1)
 ](src)
