@@ -4,29 +4,13 @@
 
 ## My favorite things about CS 193:
 - Class is only one hour per week
-- Fun attendance quizzes
+- **Fun attendance quizzes**
 - Easy homework and no tests!
-- Cool teachers
+- _Cool_ teachers
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+![https://global.discourse-cdn.com/business7/uploads/replitteams/original/2X/d/df129f8d343118a60adbe39724f816eba5340929.jpeg](src)
 
 ### Jekyll Themes
 
